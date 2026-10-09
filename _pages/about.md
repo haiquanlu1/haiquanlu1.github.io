@@ -1,56 +1,128 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Chengwang Ji (季成旺) received the PhD. degree in Electrical and Computer Engineering, under the supervision of <a href="https://personal.fst.um.edu.mo/shaodanma/" target="_blank">Prof. Shaodan Ma</a>, from the <a href="https://skliotsc.um.edu.mo/" target="_blank">State Key Laboratory of Internet of Things for Smart City</a>,  <a href="https://www.um.edu.mo/" target="_blank">University of Macau</a> in 2026, and B.Eng. degree in communication engineering from <a href="https://en.jlu.edu.cn/" target="_blank">Jilin University</a>, Changchun, China, in 2022. Now He is a Research Assistant in the State Key Laboratory of Internet of Things for Smart City at the University of Macau. 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Dr. Ji's main research interests include reconfigurable antenna array, reconfigurable distributed antennas and reflecting surface (RDARS), deep unfolding, and integrated sensing and communication (ISAC). He has served as a Technical Program Committee (TPC) Member for several flagship international conferences (e.g., IEEE Globecom 2026, IEEE ICC 2026, IEEE VTC-Spring 2026, and IEEE PIMRC 2026).
 
-A data-driven personal website
+
+## Work Experience
+------
+* 2026.8-present, Research Assistant, University of Macau, Macau, China
+
+## Education Experience
+------
+* 2022.8-2026.7, Ph.D, Electrical and Computer Engineering, University of Macau, Macau, China
+* 2018.9-2022.6, Bachelor, Communication Engineering, Jilin University, Changchun, China
+
+
+## Main Collaborators
+<ul>
+  <li><a href="https://personal.fst.um.edu.mo/shaodanma/" target="_blank" rel="noopener noreferrer">Prof. Shaodan Ma (University of Macau)</a></li>
+  <li><a href="https://teacher.njust.edu.cn/dzgd/lhq/list.htm" target="_blank" rel="noopener noreferrer">Prof. Haiquan Lu (Nanjing University of Science and Technology)</a></li>
+  <li><a href="https://scholar.google.com/citations?user=dkQrb10AAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Jintao Wang (Jinan University)</a></li>
+  <li><a href="https://scholar.google.com/citations?user=MCJ6zqgAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Dr. Qiaoyan Peng</a></li>
+  <li><a href="https://scholar.google.com/citations?user=kK2thisAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Qing Xue (Chongqing University of Posts and Telecommunications)</a></li>
+  <li><a href="https://ece.hkust.edu.hk/eejiajiaguo" target="_blank" rel="noopener noreferrer">Prof. Jiajia Guo (The Hong Kong University of Science and Technology)</a></li>
+  <li><a href="http://www2.ee.unsw.edu.au/~wzhang/" target="_blank" rel="noopener noreferrer">Prof. Wei Zhang (The University of New South Wales)</a></li>
+  <li><a href="https://scholar.google.com/citations?user=_VDYtKMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Feifei Gao (Tsinghua University)</a></li>
+  <li><a href="https://scholar.google.com/citations?user=oyok-_kAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Mr. Kehui Li (University of Macau)</a></li>
+  <li><a href="https://scholar.google.com/citations?user=0GaD5AEAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Guanghua Yang (Jinan University)</a></li>
+  <li><a href="https://vitusmacz.github.io/" target="_blank" rel="noopener noreferrer">Dr. Chengzhi Ma</a></li>
+  <li><a href="https://scholar.google.com/citations?user=_DQ7HfQAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Prof. Zheng Shi (Jinan University)</a></li>
+</ul>
+ 
+
+## Recent News 📢
+------
+
+<details markdown="1" open>
+<summary><strong>2026</strong></summary>
+
+- **Aug.29, 2026**: I was invited to serve as a TPC member for SAC - Integrated Sensing and Communications at 2027 IEEE International Conference on Communications (ICC).
+- **Aug.23, 2026**: I was invited to serve as a TPC member for Workshop, “Next-Generation Signal Processing, Architecture and Waveforms for Intelligent 3CLS,” at Globecom 2026.
+- **Aug.5, 2026**: I joined the State Key Laboratory of Internet of Things for Smart City at University of Macau as a research assistant!
+- **Aug.3, 2026**: I gave a talk "RDARS-Enhanced Communication and Sensing Systems: From Optimization to Deep Unfolding" in the joint summer seminar with Tsinghua University at University of Macau.
+- **Jul.22, 2026**: **I passed my PhD oral defense titled "Beamforming and Mode Selection for RDARS-Aided Communication and Sensing Systems"!**
+- **Jul.1, 2026**: Our paper "Mode switching for RDARS-aided ISAC systems: From optimization to deep unfolding" was submitted to IEEE TCOM.
+- **Jun.23, 2026**: Our paper "A New Paradigm Towards Reconfigurable Environment: Reconfigurable Distributed Antennas and Reflecting Surface" was selected as the **cover article** in JCIN.
+- **Jun.22, 2026**: I was invited to serve as a TPC member for Workshop 13, “Workshop on Reconfigurable Electromagnetic Technologies for 6G Multi-Functional Networks,” at PIMRC 2026.
+- **May 24, 2026**: I presented our work in IEEE ICC, in Glasgow, UK.
+- **Apr.20, 2026**: Our work about sparse array-based mode selection is accepted by IEEE WCL.
+- **Apr.3, 2026**: Our work "A New Paradigm Towards Reconfigurable Environment: Reconfigurable Distributed Antennas and Reflecting Surface" is accepted by JCIN.
+- **Mar.9, 2026**: Our work about joint ISAC waveform and mode selection design is accepted by IEEE ICC 2026 workshop: 4th Workshop on "Intelligent Movable and Reconfigurable Antennas for Future Wireless Communication and Sensing".
+- **Mar.2, 2026**: I gave a presentation about recent RDARS works in the Postgraduate Student Forum in University of Macau.
+- **Feb.10, 2026**: I was invited to serve as a TPC member for Signal Processing for Wireless Communications, Cooperative Communication, at VTC Spring, 2026.
+- **Jan.13, 2026**: Our paper "A survey of beam management for mmWave and THz communications towards 6G" was selected as **Excellent Paper of the 2026 Sichuan-Chongqing Science and Technology Conference**.
+- **Jan.9, 2026**: I was awarded the Guangdong-Hong Kong-Macao Greater Bay Area (University of Macau) Taihu Scholarship.
+
+</details>
+
+<details markdown="1">
+<summary><strong>2025</strong></summary>
+
+- **Dec.7, 2025**: I was invited to serve as a TPC member for SAC ISAC at ICC 2026.
+- **Nov.22, 2025**: Our work about the reconfigurable codebook-based beamforming design for RDARS is accepted by TWC.
+- **Oct.27, 2025**: I gave a talk to share our recent work with Professors and students from Guangzhou University.
+- **Jun.10, 2025**: I presented our work about RDARS in IEEE ICC 2025 in Montreal, Canada.
+- **Jan.12, 2025**: Our work about RDARS-aided downlink MIMO system is accepted by IEEE ICC 2025.
+
+</details>
+
+<details markdown="1">
+<summary><strong>2023</strong></summary>
+
+- **Aug.11, 2023**: Our demo (RDARS-aided ISAC system) is presented in ICCC 2023 in Dalian, China.
+
+</details>
+
+<details markdown="1">
+<summary><strong>2022</strong></summary>
+
+- **Aug, 2022**: I joined the University of Macau as a Ph.D. student.
+
+</details>
+
+
+## Research Interest 📡
+------
+* **1. Model-driven deep learning** 
+* **2. Reconfigurable antenna array** 
+* **3. Integrated sensing and communication** 
+* **4. Near field communication** 
+
+
+## Publications
+# Journal
+* **Chengwang Ji**, <a href="https://scholar.google.com/citations?user=RZcHrzgAAAAJ&hl=en" target="_blank">Haiquan Lu</a>, Qiaoyan Peng, <a href="https://scholar.google.com/citations?user=dkQrb10AAAAJ&hl=en-ch" target="_blank">Jintao Wang</a>, Feifei Gao, and Shaodan Ma\*, “Mode switching for RDARS-aided ISAC systems: From optimization to deep unfolding,” submitted to IEEE Trans. Commun., under review.
+* **Chengwang Ji**, Haiquan Lu, Kehui Li, Qiaoyan Peng, Jintao Wang, and Shaodan Ma\*, “Model-driven deep learning enhanced joint beamforming and mode switching for RDARS-aided MIMO systems,” IEEE Trans. Cogn. Commun. Netw., major revision, 2026. (SCI Q1, IF 7.0)
+* **Chengwang Ji**, Qing Xue, Haiquan Lu\*, Jintao Wang, Qiaoyan Peng, Shaodan Ma\* and Wei Zhang, “Reconfigurable codebook-based beamforming for RDARS-aided mmWave MU-MIMO systems,” IEEE Trans. Wireless Commun., vol. 25, pp. 8417-8433, 2026. (SCI Q1, IF 10.7)
+* **Chengwang Ji**, Haiquan Lu\*, Qiaoyan Peng, Jintao Wang, and Shaodan Ma\*, “Joint sparsity and beamforming design for RDARS-aided systems,” IEEE Wireless Commun. Lett., vol. 15, pp. 2934–2938, 2026. (SCI Q1, IF 5.5)
+* Qing Xue, **Chengwang Ji**, Shaodan Ma\*, Jiajia Guo, Yongjun Xu, Qianbin Chen, and Wei Zhang, “A survey of beam management for mmWave and THz communications towards 6G,” IEEE Commun. Surveys Tuts., vol. 26, no. 3, pp. 1520–1559, 3rd Quart., 2024. (SCI Q1, IF 46.7)
+* Jintao Wang, Pingping Zhang, Chengzhi Ma, **Chengwang Ji**, Zheng Shi, Guanghua Yang, and Shaodan Ma*, “A new paradigm towards reconfigurable environment: Reconfigurable distributed antennas and reflecting surface,” Journal of Communication and Information Networks, 2026.
+
+# Conference
+* **Chengwang Ji**, Haiquan Lu, Qiaoyan Peng, Jintao Wang, and Shaodan Ma\*, “Joint waveform and mode switching design for RDARS-aided integrated sensing and communication systems,” in Proc. IEEE International Conf. on Commun. (ICC) Workshops, 2026. (Flagship conference)
+* **Chengwang Ji**, Qiaoyan Peng, Jintao Wang, Ziqian Pei, and Shaodan Ma\*, “Channel-aware mode switching enhanced RDARS-aided downlink mmWave MIMO systems,” in Proc. IEEE International Conf. on Commun. (ICC), 2025. (Flagship conference)
+* Jintao Wang, **Chengwang Ji**, Jiajia Guo, and Shaodan Ma*, “Demo: Reconfigurable distributed antennas and reflecting surface (RDARS)-aided integrated sensing and communication system,” in Proc. IEEE International Conf. on Commun. in China (ICCC), 2023, pp. 1–2.
+
+
+Contact
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+**Email:** ji.chengwang@connect.um.edu.mo  
+**Phone:** (+853) 63457118 / (+86) 17720272591
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+<div style="text-align:center; margin-top: 30px; font-size: 0.9em; color: #666;">
+  <span id="busuanzi_container_site_uv">
+   You are visitor No. <span id="busuanzi_value_site_uv"></span>.
+  </span>
+</div>
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
