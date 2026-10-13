@@ -11,13 +11,8 @@ Haiquan Lu (陆海全) received the Ph.D. degree in information and communicatio
 
 ## Work Experience
 ------
-* 2026.8-present, Research Assistant, University of Macau, Macau, China
-
-## Education Experience
-------
-* 2022.8-2026.7, Ph.D, Electrical and Computer Engineering, University of Macau, Macau, China
-* 2018.9-2022.6, Bachelor, Communication Engineering, Jilin University, Changchun, China
-
+* 2025.10-present, Associate Professor, Nanjing University of Science and Technology
+* 2025.01-2025.09, Post-Doctoral Fellow, University of Macau
 
 ## Main Collaborators
 <ul>
