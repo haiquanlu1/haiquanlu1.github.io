@@ -123,15 +123,20 @@ Haiquan Lu (陆海全) received the Ph.D. degree in information and communicatio
 * Xinrui Li, **Haiquan Lu**, Yong Zeng, Shi Jin and Rui Zhang, “Near-field modeling and performance analysis of modular extremely large-scale array communications,” IEEE Commun. Lett., vol. 26, pp. 1529-1533, 2022.
 
 # Conference
-* **Chengwang Ji**, Haiquan Lu, Qiaoyan Peng, Jintao Wang, and Shaodan Ma\*, “Joint waveform and mode switching design for RDARS-aided integrated sensing and communication systems,” in Proc. IEEE International Conf. on Commun. (ICC) Workshops, 2026. (Flagship conference)
-* **Chengwang Ji**, Qiaoyan Peng, Jintao Wang, Ziqian Pei, and Shaodan Ma\*, “Channel-aware mode switching enhanced RDARS-aided downlink mmWave MIMO systems,” in Proc. IEEE International Conf. on Commun. (ICC), 2025. (Flagship conference)
-* Jintao Wang, **Chengwang Ji**, Jiajia Guo, and Shaodan Ma*, “Demo: Reconfigurable distributed antennas and reflecting surface (RDARS)-aided integrated sensing and communication system,” in Proc. IEEE International Conf. on Commun. in China (ICCC), 2023, pp. 1–2.
+* **Haiquan Lu**, Chao Feng, Yong Zeng, Shaodan Ma, Zhe Wang, Long Shi, Shi Jin and Rui Zhang, “Enabling flying MIMO system with low-altitude UAV swarm for near-field communication,” in Proc. IEEE Int. Conf. Commun. Workshops (ICC Workshops), 2026, pp. 1-6. (**Best Paper Award**)
+* **Haiquan Lu**, Yong Zeng, Shaodan Ma, Bin Li, Shi Jin and Rui Zhang, “Enabling aerial movable antenna system with UAV swarm for low-altitude economy,” in Proc. IEEE/CIC Int. Conf. Commun. China Workshops (ICCC Workshops), 2025, pp. 1-6.
+* **Haiquan Lu** and Yong Zeng, “How does performance scale with antenna number for extremely large-scale MIMO?” in Proc. IEEE Int. Conf. Commun. (ICC), 2021, pp. 1-6. (**Best Paper Award**)
+* **Haiquan Lu**, Yong Zeng, Shi Jin and Rui Zhang, “Enabling panoramic full-angle reflection via aerial intelligent reflecting surface,” in Proc. IEEE Int. Conf. Commun. Workshops (ICC Workshops), 2020, pp. 1-6.
+* Chengwang Ji, **Haiquan Lu**, Qiaoyan Peng, Jintao Wang and Shaodan Ma\*, “Joint waveform and mode switching design for RDARS-aided integrated sensing and communication systems,” in Proc. IEEE Int. Conf. Commun. Workshops (ICC Workshops), 2026, pp. 1-6.
+* Xingwei Wang, **Haiquan Lu** and Yong Zeng, “Multi-user delay alignment modulation for millimeter wave massive MIMO,” in Proc. IEEE Global Commun. Conf. (GLOBECOM), 2023, pp. 6970-6975.
+* Chao Feng, **Haiquan Lu**, Yong Zeng, Shi Jin and Rui Zhang, “Wireless communication with extremely large-scale intelligent reflecting surface,” in Proc. IEEE/CIC Int. Conf. Commun. China Workshops (ICCC Workshops), 2021, pp. 165-170.
+
 
 
 Contact
 ======
-**Email:** ji.chengwang@connect.um.edu.mo  
-**Phone:** (+853) 63457118 / (+86) 17720272591
+**Email:** haiquanlu@njust.edu.cn  
+
 
 
 <div style="text-align:center; margin-top: 30px; font-size: 0.9em; color: #666;">
