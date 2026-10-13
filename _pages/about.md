@@ -84,10 +84,10 @@ Haiquan Lu (陆海全) received the Ph.D. degree in information and communicatio
 
 ## Research Interest 📡
 ------
-* **1. Model-driven deep learning** 
-* **2. Reconfigurable antenna array** 
-* **3. Integrated sensing and communication** 
-* **4. Near field communication** 
+* **1. Extremely large-scale multiple-input multiple-output (XL-MIMO) communication** 
+* **2. Reconfigurable MIMO** 
+* **3. Channel knowledge map** 
+
 
 
 ## Publications
@@ -100,18 +100,18 @@ Haiquan Lu (陆海全) received the Ph.D. degree in information and communicatio
 * **Haiquan Lu** and Yong Zeng, “Fast antenna selection for near-field delay alignment modulation,” IEEE Wireless Commun. Lett., vol. 14, pp. 751-755, 2025.
 * **Haiquan Lu** and Yong Zeng, “Near-field secure wireless communication with delay alignment modulation,” Front. Inf. Technol. Electron. Eng., vol. 26, pp. 134-145, 2025.
 * **Haiquan Lu**, Yong Zeng, Shi Jin and Rui Zhang, “Group movable antenna with flexible sparsity: Joint array position and sparsity optimization,” IEEE Wireless Commun. Lett., vol. 13, pp. 3573-3577, 2024.
-* **Haiquan Lu**, Yong Zeng, Changsheng You, Yu Han, Jiayi Zhang, Zhe Wang, Zhenjun Dong, Shi Jin, Cheng-Xiang Wang, Tao Jiang, Xiaohu You and Rui Zhang, “A tutorial on near-field XL-MIMO communications toward 6G,” IEEE Commun. Surveys Tuts., vol. 26, pp. 2213-2257, 2024.
+* **Haiquan Lu**, Yong Zeng, Changsheng You, Yu Han, Jiayi Zhang, Zhe Wang, Zhenjun Dong, Shi Jin, Cheng-Xiang Wang, Tao Jiang, Xiaohu You and Rui Zhang, “A tutorial on near-field XL-MIMO communications toward 6G,” IEEE Commun. Surveys Tuts., vol. 26, pp. 2213-2257, 2024. (**Highly cited paper**)
 * **Haiquan Lu** and Yong Zeng, “Delay-Doppler alignment modulation for spatially sparse massive MIMO communication,” IEEE Trans. Wireless Commun., vol. 23, pp. 6000-6014, 2024.
 * **Haiquan Lu**, Yong Zeng, Shi Jin and Rui Zhang, “Single-carrier delay alignment modulation for multi-IRS aided communication,” IEEE Trans. Wireless Commun., vol. 23, pp. 3267-3282, 2024.
 * **Haiquan Lu** and Yong Zeng, “Delay alignment modulation: Manipulating channel delay spread for efficient single- and multi-carrier communication,” IEEE Trans. Commun., vol. 71, pp. 6316-6331, 2023.
 * **Haiquan Lu** and Yong Zeng, “Delay alignment modulation: Enabling equalization-free single-carrier communication,” IEEE Wireless Commun. Lett., vol. 11, pp. 1785-1789, 2022.
-* **Haiquan Lu** and Yong Zeng, “Communicating with extremely large-scale array/surface: Unified modeling and performance analysis,” IEEE Trans. Wireless Commun., vol. 21, pp. 4039-4053, 2022.
+* **Haiquan Lu** and Yong Zeng, “Communicating with extremely large-scale array/surface: Unified modeling and performance analysis,” IEEE Trans. Wireless Commun., vol. 21, pp. 4039-4053, 2022. (**Highly cited paper**)
 * **Haiquan Lu** and Yong Zeng, “Near-field modeling and performance analysis for multi-user extremely large-scale MIMO communication,” IEEE Commun. Lett., vol. 26, pp. 277-281, 2022.
-* **Haiquan Lu**, Yong Zeng, Shi Jin and Rui Zhang, “Aerial intelligent reflecting surface: Joint placement and passive beamforming design with 3D beam flattening,” IEEE Trans. Wireless Commun., vol. 20, pp. 4128-4143, 2021.
+* **Haiquan Lu**, Yong Zeng, Shi Jin and Rui Zhang, “Aerial intelligent reflecting surface: Joint placement and passive beamforming design with 3D beam flattening,” IEEE Trans. Wireless Commun., vol. 20, pp. 4128-4143, 2021. (**Highly cited paper**)
 * **Haiquan Lu**, Haibo Dai, Ping Sun, Pei Li and Baoyun Wang, “Proactive eavesdropping in UAV-aided mobile relay systems,” EURASIP J. Wireless Commun. Netw., vol. 2020, Art. no. 48, 2020.
 * **Haiquan Lu**, Haiyang Zhang, Haibo Dai, Wei Wu and Baoyun Wang, “Proactive eavesdropping in UAV-aided suspicious communication systems,” IEEE Trans. Veh. Technol., vol. 68, pp. 1993-1997, 2019.
 
-* Chengwang Ji, **Haiquan Lu**, Kehui Li, Qiaoyan Peng, Jintao Wang and Shaodan Ma\*, “Model-driven deep learning enhanced joint beamforming and mode switching for RDARS-aided MIMO systems,” IEEE Trans. Cogn. Commun. Netw., accepted for publication, 2026.
+* Chengwang Ji, **Haiquan Lu**\*, Kehui Li, Qiaoyan Peng, Jintao Wang and Shaodan Ma\*, “Model-driven deep learning enhanced joint beamforming and mode switching for RDARS-aided MIMO systems,” IEEE Trans. Cogn. Commun. Netw., accepted for publication, 2026.
 * Yuxuan Song, **Haiquan Lu**, Chiya Zhang, Beixiong Zheng and Yong Zeng, “Trajectory optimization for cellular-connected UAV in complex environment with partial CKM,” IEEE Trans. Commun., vol. 74, pp. 8208-8221, 2026.
 * Chengwang Ji, **Haiquan Lu**\*, Qiaoyan Peng, Jintao Wang and Shaodan Ma\*, “Joint sparsity and beamforming design for RDARS-aided systems,” IEEE Wireless Commun. Lett., vol. 15, pp. 2934-2938, 2026.
 * Chengwang Ji, Qing Xue, **Haiquan Lu**\*, Jintao Wang, Qiaoyan Peng, Shaodan Ma\* and Wei Zhang, “Reconfigurable codebook-based beamforming for RDARS-aided mmWave MU-MIMO systems,” IEEE Trans. Wireless Commun., vol. 25, pp. 8417-8433, 2026.
