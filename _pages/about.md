@@ -7,10 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Haiquan Lu (陆海全) received the PhD. degree in Electrical and Computer Engineering, under the supervision of <a href="https://personal.fst.um.edu.mo/shaodanma/" target="_blank">Prof. Shaodan Ma</a>, from the <a href="https://skliotsc.um.edu.mo/" target="_blank">State Key Laboratory of Internet of Things for Smart City</a>,  <a href="https://www.um.edu.mo/" target="_blank">University of Macau</a> in 2026, and B.Eng. degree in communication engineering from <a href="https://en.jlu.edu.cn/" target="_blank">Jilin University</a>, Changchun, China, in 2022. Now He is a Research Assistant in the State Key Laboratory of Internet of Things for Smart City at the University of Macau. de de 
-
-Dr. Ji's main research interests include reconfigurable antenna array, reconfigurable distributed antennas and reflecting surface (RDARS), deep unfolding, and integrated sensing and communication (ISAC). He has served as a Technical Program Committee (TPC) Member for several flagship international conferences (e.g., IEEE Globecom 2026, IEEE ICC 2026, IEEE VTC-Spring 2026, and IEEE PIMRC 2026).
-
+Haiquan Lu (陆海全) received the Ph.D. degree in information and communication engineering from Southeast University, under the supervision of Prof. Yong Zeng. From January 2025 to September 2025, he was a Post-Doctoral Fellow with the State Key Laboratory of Internet of Things for Smart City, University of Macau, under the mentorship of Prof. Shaodan Ma. Since October 2025, he has been an Associate Professor with the School of Electronic and Optical Engineering, Nanjing University of Science and Technology.
 
 ## Work Experience
 ------
